@@ -141,3 +141,4 @@ def serve_chai():
 stall  = serve_chai()
 print(next(stall))  # Output: cup 1:masala chai
 print(next(stall))  # Output: cup 2:ginger chai 
+
